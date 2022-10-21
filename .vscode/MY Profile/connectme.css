@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: rgba(209, 57, 214, 0.864);
+}
+header{
+    display: flex;
+    background-color:rgb(49, 42, 42);
+    width:80rem;
+    position:fixed;
+    height: 100px;
+}
+.Atar1{
+    border: 1px solid whitesmoke;
+    width:90px;
+    height: 15px;
+    padding-left:20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    background-color:black;
+    color: greenyellow;
+    margin-left:5rem;
+}
+.Atar1:hover{
+    border-radius: 50px;
+    width: 120px;
+    border-color: white;
+    font-size: 20px;
+    font-weight:bolder;
+    padding-bottom: 20px;
+}
+#button1{
+    margin-top: 2.3%;
+    margin-left: 12%;
+}
+#button3{
+    margin-top: 2.3%;
+    width: 200px;
+    margin-left: -70px;
+}
+#button2{
+    margin-top: 2.3%;
+    margin-left: -70px;
+}
+.inputbar1{
+    height: 35px;
+    width: 400px;
+}
+.head{
+    border: 1px solid whitesmoke;
+}
+.image1{
+    width: 25%;
+    background-color:blueviolet;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-top: 15%;
+    border-radius: 50px;
+}
+.textof1{
+    text-align: center;
+    padding: 10px 5px;
+}
+i{
+    font-size: 6rem;
+}
+.conline1{
+    display:flex;
+    margin-left: 2%;
+}
+.textof2{
+    text-align: center;
+    padding: 10px 5px;
+}
+.image2{
+    width: 25%;
+    background-color:blue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-top: 15%;
+    border-radius: 50px;
+    margin-left: 10%;
+}
+.textof3{
+    text-align: center;
+    padding: 10px 5px;
+}
+.image3{
+    width: 25%;
+    background-color:green;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-top: 15%;
+    border-radius: 50px;
+    margin-left: 9%;
+    margin-right: 1%;
+}
+#ions{
+    font-size:40px;
+}
+#ions1{
+    font-size: 20px;
+    background-color:whitesmoke;
+    padding: 10px 20px 20px 10px ;
+    border: 6px solid black;
+}
+.text4{
+    font-size: 150%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:1000;
+    text-decoration: none;
+    color:red;
+    background-color: black;
+    border: 2px solid white ;
+    padding: 20px 10px 15px 20px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    width: 90%;
+    height: 100px;
+    position: inherit;
+    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 10s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-delay: 20s; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 10s;
+    animation-delay: 5s;
+    animation-iteration-count:unset;
+    animation-timing-function:5s;
+    margin-top: 10%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color: greenyellow;
+    white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: clip;
+}
+@keyframes example {
+    0%   {color:red; left:0px; top:0px; border-top-style:groove; width: 90px; border-top-color: black;}
+    25%  {color:yellow; left:200px; top:0px;border-left-style: solid; border-left-color: red;}
+    50%  {color:blue; left:200px; top:200px;border-bottom-style: ridge; border-right-color: greenyellow;}
+    75%  {color:green; left:0px; top:100px;border-right-style: inset; border-bottom-color: honeydew;}
+    100% {color:red; left:0px; top:0px;border-radius: 50px; width: 90%; border-color: green;}
+   
+}
+.span2{
+    width: 50%;
+    margin-left: 30%;
+}
+/* new */
+.conline2{
+    display:flex;
+    margin-left: 2%;
+}
+.image5{
+    width: 25%;
+    background-color:blue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-top: 5%;
+    border-radius: 50px;
+}
+.textof4{
+    text-align: center;
+    padding: 10px 5px;
+}
+.image6{
+    width: 25%;
+    background-color:rgb(27, 27, 132);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-top: 5%;
+    border-radius: 50px;
+    margin-left: 10%;
+}
+.textof5{
+    text-align: center;
+    padding: 10px 5px;
+}
+.image7{
+    width: 25%;
+    background-color:orange;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-top: 5%;
+    border-radius: 50px;
+    margin-left: 9%;
+    margin-right: 1%;
+}
+.textof4{
+    text-align: center;
+    padding: 10px 5px;
+}
+.ioncenter{
+    margin-top: 60%;
+    margin-left: 34%;
+}
+#ions2{
+    font-size:40px;
+    padding: 10px;
+}
