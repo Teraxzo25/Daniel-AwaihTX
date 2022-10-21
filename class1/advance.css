@@ -1,0 +1,35 @@
+/* div{
+    background-image: radial-gradient( circle, blue, red);
+    width: 100px;
+    height: 100px;
+} */
+/* h1{
+    text-shadow: black 2px 2px 4px;
+    color: white;
+} */
+/* div{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    box-shadow: 50px 50px 50px black;
+} */
+/* p{
+    white-space: nowrap;
+    width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: 1px solid black; */
+    /* writing-mode: vertical-lr; */
+div{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    transition: width 10s, height 20s;
+    transition-timing-function: ease-in-out;
+}
+   
+div:hover{
+   transform: rotate(120deg);
+    width: 400px;
+    height: 600px;
+}

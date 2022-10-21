@@ -1,0 +1,43 @@
+
+/* .img{ */
+    /* background-image: url(./asset/image/Easter\ Background\ 2.jpg); */
+    /* width: 400px; */
+    /* height: 200px; */
+    /* border: 1px solid black; */
+    /* opacity: 0.4; */
+/* } */
+/* .img:hover:{ */
+    /* opacity: 1;
+}
+ul{
+    list-style-type: none;
+}
+.dropdown{
+    position: relative;
+}
+.dropdown-con{
+    display: none;
+    position: absolute;
+    z-index: 1;
+}
+.dropdown:hover .dropdown-con{
+    display: block;
+}
+.dropbtn{
+    padding: 20px 10px 20px 10px ;
+    background-color: blue; */
+
+/* } */
+.overall{
+    display: flex;
+}
+.ww{
+    font-size: 20px;
+    text-align: center;
+}
+.b{
+    margin-left: 10px;
+}
+.bor2:hover{
+border: 2px solid red;
+}

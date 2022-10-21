@@ -1,0 +1,133 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: sample;
+    animation-duration: 10s;
+    animation-delay: 2s;
+    animation-iteration-count: 5;
+}
+@keyframes sample{
+    0%{background-color: red; left: 0px; top: 0px;}
+    25%{background-color: yellow; left: 200px; top:0px;}
+    50% {background-color: green; left : 200px; top:300px;}
+    75% {background-color:purple; left: 0px; top:300px;}
+    100% {background-color: blue; left: 0px; top:0px;}
+} */
+/* .tooltip{
+    position: relative;
+}
+.tooltip .tooltipText{
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    bottom: -8px;
+    left: -8px;
+    background-color: pink;
+    color: #fff;
+    font-size: 10px;
+}
+.tooltip:hover .tooltipText{
+    visibility: visible;
+}
+.tooltip .tooltipText ::after{
+    content: " ";
+    position:absolute;
+    top: 20px;
+    left: -8px;
+    margin-left: -5px;
+    border: 5px solid black;
+}
+.container{
+    position: relative;
+}
+.move{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+}
+img{
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+} */
+/* .image{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.container{
+    position: relative;
+    width: 50%;
+}
+.overlay{
+    position:absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    background-color:#00BCBA;
+    transition: 0.5s ease ;
+}
+.container:hover .overlay{
+    opacity: 1;
+}
+.text{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-10%, -10%);
+
+} */
+/* .container{
+    position: relative;
+    width: 50%;
+}
+.image{
+    width: 100%;
+    opacity: 1;
+    display: block;
+    height: auto;
+}
+.lay{
+    position: absolute;
+    opacity: 0;
+    top: 35%;
+    left: 25%;
+}
+.container:hover .image{
+    opacity: 0.3;
+}
+.text{
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    padding: 15px 15px;
+}
+.image:hover{
+    transform: scaleX(-1);
+}
+.container:hover .lay{
+    opacity: 1;
+ }
+.pagination{
+    display: inline-block;
+}
+.pagination a{
+    color: #fff;
+    background-color: green;
+    text-decoration: none;
+    padding: 4px 8px;
+}
+.pagination a:hover{
+    opacity: 0.5;
+    background-color: greenyellow;
+    position:absolute;
+    font-size: 20px;
+    transform: scaleX(20px 20px);
+}
+

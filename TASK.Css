@@ -1,0 +1,233 @@
+.box1{
+    background-color: blue;
+    width: 20%;
+    height: 700px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box2{
+    width: 110%;
+    height: 700px;
+    background-color:rgb(189, 189, 228);
+}
+.box{
+    display: flex;
+}
+img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+}
+.sii{
+    font-style: normal;
+    color: white;
+    font-size: 15px;
+}
+.gee{
+    list-style-type: none;
+    
+}
+.we{
+    list-style-type: none;
+    padding: 20px;
+}
+.oo{
+    list-style-type: none;
+    padding: 10px;
+}
+li:hover{
+    border: 1px solid rgb(111, 96, 96);
+    color: white;
+    background-color: rgb(111, 96, 96);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+input{
+    margin-left: 20px;
+    padding-left: 20px;
+    margin-top: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 27%;
+    border-color: whitesmoke;
+}
+h3{
+    margin-left: 20px;
+}
+.inbox1{
+    border: 1px solid black;
+    width: 300px;
+    height: 110px;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+.img2{
+    width: 150px;
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: 50px;
+    margin-bottom:50px;
+}
+h2{
+    display: flex;
+    padding-top: 10px;
+}
+.inbox2{
+    border: 1px solid black;
+    width: 300px;
+    height: 110px;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+}
+.img3{
+    width: 150px;
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    margin-left: 50px;
+    padding-right: 60px;
+    margin-bottom: 50px;
+}
+h5{
+    display: flex;
+}
+.uu{
+    font-size: larger;
+}
+.inbox3{
+    border: 1px solid black;
+    width: 300px;
+    height: 110px;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+}
+.img4{
+    width: 150px;
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    margin-left: 50px;
+    padding-right: 60px;
+    margin-bottom: 50px;
+}
+.ii{
+    font-size: larger;
+}
+.general{
+    display: flex;
+}
+.box3{
+    border: 1px solid black;
+    width:300px;
+    height: 110px;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+}
+.img5{
+    width: 90px;
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    margin-left: 50px;
+    padding-right: 60px;
+    margin-bottom: 50px;
+}
+.pp{
+    display: flex;
+    padding-top: 10px;
+}
+.box4{
+    border: 1px solid black;
+    background-color: whitesmoke;
+    width: 300px;
+    height: 110px;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    border-color: whitesmoke;
+}
+.aa{
+    display: flex;
+    padding-top: 10px;
+}
+.img6{
+    width: 90px;
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 120px;
+    margin-left: 50px;
+    padding-right: 60px;
+    margin-bottom: 50px;
+}
+.box5{
+    border: 1px solid black;
+    background-color: whitesmoke;
+    width: 300px;
+    height: 110px;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    border-color: whitesmoke;
+}
+.img7{
+    width: 90px;
+    height: 50px;
+    padding-bottom: 20px;
+    padding-left: 120px;
+    margin-left: 0px;
+    padding-right: 60px;
+    margin-bottom: 50px;
+}
+.ss{
+    display: flex;
+}
+.general2{
+    display: flex;
+}
+ul{
+    list-style-type: none;
+}
+input{
+    width: -1px;
+    height: -1px;
+}
+.box6{
+    display: flex;
+    border: 1px solid black;
+    width: 640px;
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.r5{
+    width: 20px;
+    height: 20px;
+    
+}
